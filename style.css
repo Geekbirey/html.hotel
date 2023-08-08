@@ -1,0 +1,22 @@
+.head-section{
+   background-color: #331D2C;
+} 
+
+h1{
+    color: aliceblue;
+    font-family:Clicker Script ;
+}
+h2{
+    color: aliceblue;
+    font-family: Dr Sugiyama;
+}
+p{
+color: aliceblue;
+font-family: Dr Sugiyama;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 100% 100%;
+    animation: gradient-animation 18s ease infinite;
+  }
